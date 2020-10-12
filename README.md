@@ -11,7 +11,7 @@ In the method Play(), the system first determine which scale should the chord pr
 
 # Instructions
 
-Copy the code into processing.
-Run the Sketch.
-Click on Select_file and select any image you desired.
-Press Play and enjoy the 8-bit music
+Copy the code into processing.  
+Run the Sketch.  
+Click on Select_file and select any image you desired.  
+Press Play and enjoy the 8-bit music  
